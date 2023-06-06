@@ -73,6 +73,7 @@ ul{
 
 .second-part{
     margin-bottom: 200px;
+   
 }
 
 .information-header-text{
@@ -103,4 +104,30 @@ ul{
 .info-box{
     max-width: 200px;
     text-align: center;
+}
+
+.info-box div{
+    color: black;
+}
+
+/**third part css**/
+.third-part{
+    background-color: #e5e7eb;
+    padding: 100px 500px;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 20px;
+}
+
+.thor{
+    text-align: right;
+    margin-right: 50px;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 28px;
 }
